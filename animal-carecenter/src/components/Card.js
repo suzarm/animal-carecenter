@@ -1,9 +1,11 @@
 
 
-function Card(){
+function Card({img,text,button}){
     return(
         <>
-            <button>start</button>
+            <img/>{img}
+            <p>{text}</p>
+            <button>{button}</button>
         </>
     )
 }
