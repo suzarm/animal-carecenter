@@ -1,0 +1,27 @@
+.navbar{
+    background-color:#CCCCCC ;
+    padding-bottom:5px;
+}
+
+.title{
+    background-color:#DDAA00 ;
+    font-size:43px;
+    color:white;
+    padding:30px;
+}
+
+.navbar-list{
+    display:flex;
+    justify-content:space-between;
+    padding-inline:10px;
+}
+
+.navbar-item{
+    list-style:none;
+    color:#DDAA00;
+    border:2px solid black;
+    background-color: white;
+    padding:10px 70px;
+    font-size:22px;
+    font-weight:700;
+}
