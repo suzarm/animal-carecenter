@@ -1,3 +1,4 @@
 .main-container{
     display:flex;
+    padding-inline: 20px;
 }

@@ -1,9 +1,10 @@
+import './Footer.css'
 
 function Footer(){
     return(
-        <>
-            <h1>Copyright @ 2016</h1>
-        </>
+        < div className='footer'>
+            <h1 className='footer-text'>Copyright @ 2016</h1>
+        </div>
     )
     
 }
